@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Dungeons & Dragons</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p><strong>Dungeons & Dragons</strong></p>
+<p>Last updated: January 2026</p>
+
+<p>
+This Privacy Policy describes how the game <strong>Dungeons & Dragons</strong> ("the Game")
+collects and uses information.
+</p>
+
+<h2>Information We Collect</h2>
+<p>
+The Game does <strong>not collect personal information</strong> such as names, email addresses,
+phone numbers, precise location, or contact details.
+</p>
+
+<p>
+The Game stores only <strong>game-related data</strong>, including:
+</p>
+<ul>
+    <li>In-game currency (such as coins)</li>
+    <li>Heroes, progress, and gameplay data</li>
+</ul>
+
+<p>
+This data is used only to provide core game functionality.
+</p>
+
+<h2>Multiplayer & Servers</h2>
+<p>
+The Game uses online multiplayer services hosted on <strong>AWS (Amazon Web Services)</strong>
+and the <strong>Mirror</strong> networking framework.
+</p>
+
+<p>
+Only gameplay-related data is transmitted to support multiplayer features.
+No personal or identifying information is collected or stored.
+</p>
+
+<h2>In-App Purchases</h2>
+<p>
+The Game uses <strong>Google Play In-App Billing</strong> for purchases.
+</p>
+
+<p>
+All payments are processed securely by Google.
+We do not collect or store any payment or financial information.
+</p>
+
+<h2>Children’s Privacy</h2>
+<p>
+The Game is suitable for general audiences, including children under 13.
+</p>
+
+<p>
+We do <strong>not knowingly collect personal information</strong> from children under 13.
+Only non-personal gameplay data is stored.
+</p>
+
+<h2>Data Sharing</h2>
+<p>
+We do not sell, share, or distribute user data to third parties.
+</p>
+
+<h2>Data Security</h2>
+<p>
+Reasonable measures are taken to protect game data.
+However, no method of electronic storage is completely secure.
+</p>
+
+<h2>Changes to This Policy</h2>
+<p>
+This Privacy Policy may be updated from time to time.
+Any changes will be posted on this page.
+</p>
+
+<h2>Contact</h2>
+<p>
+If you have questions about this Privacy Policy, you may contact us at:
+</p>
+
+<p>
+<strong>Email:</strong> your-email@example.com
+</p>
+
+</body>
+</html>
